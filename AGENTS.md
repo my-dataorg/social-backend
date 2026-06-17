@@ -6,6 +6,7 @@ Scaffold repo — invoke **planner** before building Social API.
 
 | Agent | When to use |
 |-------|-------------|
+| **backend-developer** | **Primary** — all API implementation when building Social API |
 | **planner** | Break down Social MVP |
 | **testing-agent** | After implementation |
 | **code-review** | Review diff |
